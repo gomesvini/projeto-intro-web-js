@@ -30,3 +30,6 @@ Recomendamos que caso não lembre como funciona o processo de entrega, clique [*
 
 Bom projeto para vocês!
 
+https://gomesvini.github.io/projeto-intro-web-js/ - SURGE
+https://github.com/gomesvini/projeto-intro-web-js - LINK REPOSITORIO
+
